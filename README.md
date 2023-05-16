@@ -1,2 +1,2 @@
 # GameOfLife
-Implementation of the popular Game Of Life created using a two-dimensional array.
+A recreation of Conway's Game Of Life created using two-dimensional arrays.
